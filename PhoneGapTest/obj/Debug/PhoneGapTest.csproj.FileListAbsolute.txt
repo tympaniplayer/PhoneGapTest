@@ -1,0 +1,5 @@
+c:\users\palme_000\skydrive\Users\palme_000\Documents\Visual Studio 2012\Projects\PhoneGapTest\PhoneGapTest\bin\PhoneGapTest.dll
+c:\users\palme_000\skydrive\Users\palme_000\Documents\Visual Studio 2012\Projects\PhoneGapTest\PhoneGapTest\bin\PhoneGapTest.pdb
+c:\users\palme_000\skydrive\Users\palme_000\Documents\Visual Studio 2012\Projects\PhoneGapTest\PhoneGapTest\obj\Debug\PhoneGapTest.csprojResolveAssemblyReference.cache
+c:\users\palme_000\skydrive\Users\palme_000\Documents\Visual Studio 2012\Projects\PhoneGapTest\PhoneGapTest\obj\Debug\PhoneGapTest.dll
+c:\users\palme_000\skydrive\Users\palme_000\Documents\Visual Studio 2012\Projects\PhoneGapTest\PhoneGapTest\obj\Debug\PhoneGapTest.pdb
